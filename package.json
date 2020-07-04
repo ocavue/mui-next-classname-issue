@@ -1,0 +1,39 @@
+{
+  "name": "mui-next-classname-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@next/bundle-analyzer": "^9.4.4",
+    "@types/react": "^16.9.41",
+    "@types/react-dom": "^16.9.8",
+    "next": "^9.4.4",
+    "next-images": "^1.4.0",
+    "next-offline": "^5.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sass": "^1.26.9",
+    "tsconfig-paths-webpack-plugin": "^3.2.0",
+    "typescript": "^3.9.6",
+    "unstated-next": "^1.1.0",
+    "webpack": "^4.43.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "engines": {
+    "node": ">= 12"
+  },
+  "files": [
+    "this_file_dose_not_exist"
+  ]
+}

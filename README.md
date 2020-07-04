@@ -19,6 +19,8 @@ this is a full reproduction repository for https://github.com/vercel/next.js/iss
 - Step 6: Go back to the first tab and reload the page. You should see the `Prop className did not match` error message in the console.
 - Step 7: If there is still no error message, try to edit `src/views/Workspace.tsx` (for example: add some text inside the `<div>`) and then reload the first tab again.
 
+check `video.mov.zip` in this repo to get my sereen recording.
+
 ## Some environment information
 
 - OS: macOS 10.14.6
